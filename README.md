@@ -1,8 +1,13 @@
-# COMPOUND-Model
-**_tbd._**
+# Verapamil-Dabigatran-DDI
 
-## Repository files
-**_tbd._**
+Modeling of a clinical Verapamil-Dabigatran-DDI study for model evaluation. 
+
+Within this repository, we distribute a PK-Sim snapshot file containing simulations of a clinical study used to evaluate the predictive performance of our models regarding the Verapamil-Dabigatran-DDI, including the respective observed data. 
+
+The reference model repositories can be found here: 
+
+* xxx
+* xxx
 
 ## Code of conduct
 Everyone interacting in the Open Systems Pharmacology community (codebases, issue trackers, chat rooms, mailing lists etc...) is expected to follow the Open Systems Pharmacology [code of conduct](https://github.com/Open-Systems-Pharmacology/Suite/blob/master/CODE_OF_CONDUCT.md#contributor-covenant-code-of-conduct).
@@ -12,6 +17,3 @@ We encourage contribution to the Open Systems Pharmacology community. Before get
 
 ## License
 The model code is distributed under the [GPLv2 License](https://github.com/Open-Systems-Pharmacology/Suite/blob/develop/LICENSE).
-
-## References
-[1] **_tbd._**
